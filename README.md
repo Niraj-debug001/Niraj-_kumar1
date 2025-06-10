@@ -1,4 +1,4 @@
-# Firebase Studio
+#Mission Control Dashboard
 
 This is a NextJS starter in VS Code
 
